@@ -1,5 +1,11 @@
 ************** READ ME **************
 
+Project 2: Implementing Algorithm
+Fall 2024 CPSC 335 - Algorithm Engineering
+Abstract
+Develop a pseudocode for an algorithm; analyze your pseudocode mathematically; implement the
+code for the algorithm of your choice; test your implementation; and describe your results
+
 Author:
         + Patrick Chau - pchau10@csu.fullerton.edu	
         + Le Do – doleminhtriet@csu.fullerton.edu
